@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel MBARAGA NISHIMWE from Rwanda
-- 👀 I’m interested in Software Development especially in web Debvelopment
+- 👀 I’m interested in Software Development especially in web Development
 - 🌱 I’m currently learning Javascript,React and Node.js
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me :

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Emmanuel MBARAGA NISHIMWE from Rwanda
-- 👀 I’m interested in Software Development especially in web Development
+- 👋 Hi, I’m Emmanuel MBARAGA NISHIMWE from Rwanda/Kigali
+- 👀 I’m Fullstack Developer
 - 🌱 I’m currently learning Javascript,React and Node.js
-- 💞️ I’m looking to collaborate on Web development projects
+- 💞️ I’m looking forward to collaborate on Web development projects
 - 📫 How to reach me :
 Twitter:@EmmanuelMbaraga
 LinkedIn: linkedin.com/in/emmanuel-mbaraga-nishimwe-b67750111/
